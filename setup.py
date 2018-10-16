@@ -20,7 +20,8 @@ setuptools.setup(
     version='0.0.3',
     packages=find_packages(),
     url='https://github.com/samapriya/hacktober2018',
-    install_requires=['Shapely>=1.6.4.post1','planet>=1.1.0','requests>=2.19.1'],
+    install_requires=['Shapely>=1.6.4.post1','planet>=1.1.0','requests>=2.19.1',
+    'earthengine-api>=0.1.138','gitpython>=2.1.11','pendulum>=2.0.2'],
     license='Apache 2.0',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
@@ -39,7 +40,7 @@ setuptools.setup(
     ),
     author='Samapriya Roy',
     author_email='samapriya.roy@gmail.com',
-    description='Hacktober 2018 Place to Planet CLI',
+    description='Hacktober 2018 Place to Planet & EE CLI',
     entry_points={
         'console_scripts': [
             'place2planet=place2planet.place2planet:main',
