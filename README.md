@@ -1,5 +1,5 @@
-# hacktober2018
-Building some hack month projects October 2018
+# Places, Planet and Earth Engine: Hacktober2018
+Building some hack month projects October 2018. Read the [medium article here](https://medium.com/@samapriyaroy)
 
 ```
 usage: place2planet [-h]
