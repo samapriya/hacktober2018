@@ -1,5 +1,5 @@
 # Places, Planet and Earth Engine: Hacktober2018
-Building some hack month projects October 2018. Read the [medium article here](https://medium.com/@samapriyaroy)
+Building some hack month projects October 2018. Read the [medium article here](https://medium.com/@samapriyaroy/places-planet-earth-engine-hacktober-2018-99f96101e7bf) and my other [medium posts here](https://medium.com/@samapriyaroy)
 
 ```
 usage: place2planet [-h]
