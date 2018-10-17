@@ -16,8 +16,8 @@ def readme():
     with open('README.md') as f:
         return f.read()
 setuptools.setup(
-    name='satadd',
-    version='0.0.3',
+    name='place2planet',
+    version='0.0.1',
     packages=find_packages(),
     url='https://github.com/samapriya/hacktober2018',
     install_requires=['Shapely>=1.6.4.post1','planet>=1.1.0','requests>=2.19.1',
